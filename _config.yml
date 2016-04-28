@@ -1,0 +1,28 @@
+name: nowoolybullshit
+favicon: null
+layout_spectrum: 0.5742575787007809
+typography_spectrum: 0.8269760773982853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.34291361435316503
+  lightness: 0.9086445758584887
+  saturation: 0.6999269826337695
+  rhythmicContrast: 0.819379000691697
+purpose: []
